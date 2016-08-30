@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.moodlecny.mimobile"
         versionCode = "2010"
-        version   = "2.9">
-    <name>Moodle Mobile</name>
+        version   = "1.0">
+    <name>Escritorio académico Colegio Nueva York</name>
 
     <description>
-        Moodle Mobile official app
+        Aplicación generada desde moodle mobile version 2.9
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://moodlenuevayork.datasae.com" email="webmaster@colegionuevayork.edu.co">
+        William Bustos @williambustos
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
